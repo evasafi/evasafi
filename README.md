@@ -36,12 +36,3 @@ const eva_safi = {
     "Scoring digital tools for Kenzy",
   ],
 };
-```
-
-## Selected work
-
-| Project | What it is |
-| --- | --- |
-| [dp-fairness-adult](https://github.com/evasafi/dp-fairness-adult) | Effect of differentially private training on the male-female TPR gap, UCI Adult |
-| [adhd-eeg-classification](https://github.com/evasafi/adhd-eeg-classification) | ADHD vs control from resting-state EEG, 121 subjects, SHAP explainability |
-| [global-disease-burden-atlas](https://github.com/evasafi/global-disease-burden-atlas) | IHME GBD 2023 in a SQL Server star schema, K-Means clusters, Power BI |
