@@ -55,6 +55,6 @@ const eva_safi = {
   <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" alt="PyTorch" title="PyTorch" height="48">
   <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" alt="scikit-learn" title="scikit-learn" height="48">
   <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="Streamlit" title="Streamlit" height="48">
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" alt="Power BI" title="Power BI" height="48">
+  <img src="powerbi.svg" alt="Power BI" title="Power BI" height="48">
   <img src="https://cdn.simpleicons.org/git/F05032" alt="Git" title="Git" height="48">
 </p>
