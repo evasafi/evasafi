@@ -50,6 +50,10 @@ const eva_safi = {
 
 <p>
   <img src="https://cdn.simpleicons.org/python/3776AB" alt="Python" title="Python" height="48">
+  <img src="java.svg" alt="Java" title="Java" height="48">
+  <img src="c.svg" alt="C" title="C" height="48">
+  <img src="cpp.svg" alt="C++" title="C++" height="48">
+  <img src="r.svg" alt="R" title="R" height="48">
   <img src="sql.svg" alt="SQL" title="SQL" height="48">
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" title="JavaScript" height="48">
   <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" alt="PyTorch" title="PyTorch" height="48">
