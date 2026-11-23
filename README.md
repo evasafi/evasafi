@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.svg" alt="Pixel-art Istanbul skyline at dusk" width="100%">
+  <img src="room.gif" alt="Pixel-art night room: a girl coding at a laptop beside a window with the Istanbul skyline" width="100%">
 </p>
 
 ## Who is Eva?
