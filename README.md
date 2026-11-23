@@ -56,6 +56,11 @@ const eva_safi = {
   <img src="r.svg" alt="R" title="R" height="48">
   <img src="sql.svg" alt="SQL" title="SQL" height="48">
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" alt="JavaScript" title="JavaScript" height="48">
+  <img src="https://cdn.simpleicons.org/numpy/4DABCF" alt="NumPy" title="NumPy" height="48">
+  <img src="https://cdn.simpleicons.org/pandas/E70488" alt="pandas" title="pandas" height="48">
+  <img src="matplotlib.svg" alt="Matplotlib" title="Matplotlib" height="48">
+  <img src="mne.svg" alt="MNE-Python" title="MNE-Python" height="48">
+  <img src="https://cdn.simpleicons.org/pytest/0A9EDC" alt="pytest" title="pytest" height="48">
   <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" alt="PyTorch" title="PyTorch" height="48">
   <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" alt="scikit-learn" title="scikit-learn" height="48">
   <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="Streamlit" title="Streamlit" height="48">

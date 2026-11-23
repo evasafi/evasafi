@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" width="48" height="48" fill="none">
+  <rect x="3" y="7" width="42" height="34" rx="6" fill="#0d1117" stroke="#6C8EBF" stroke-width="2.5"/>
+  <path d="M7 27 L13 27 L16 17 L20 34 L24 22 L27 27 L31 27 L34 14 L38 30 L41 27" stroke="#7DD3FC" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+  <text x="24" y="40" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-weight="bold" font-size="0" fill="#fff">MNE</text>
+</svg>
